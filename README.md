@@ -1,1 +1,1 @@
-# navibot-oauth-pages.
+# navibot-oauth-pages
